@@ -13,3 +13,7 @@ Return
 >!Down::
 Send {PgDn}
 Return
+
+^/::
+Send {Appskey}
+Return
